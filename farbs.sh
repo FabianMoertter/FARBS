@@ -1,6 +1,6 @@
 #!/bin/sh
 # Fabulous Auto Rice Boostrapping Script (FARBS)
-# by Luke Smith <luke@lukesmith.xyz>
+# by Luke Smith <luke@lukesmith.xyz> modified by FM
 # License: GNU GPLv3
 
 ### OPTIONS AND VARIABLES ###
