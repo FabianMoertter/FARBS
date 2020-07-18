@@ -1,3 +1,4 @@
+#Original Content of LARBS
 #TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
 ,xorg-server,"is the graphical server."
 ,xorg-xwininfo,"allows querying information about windows."
@@ -80,3 +81,4 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 G,https://github.com/lukesmithxyz/dwm.git,"is the window manager."
 A,mutt-wizard-git,"is a light-weight terminal-based email system."
 ,slock,"allows you to lock your computer, and quickly unlock with your password."
+#Fabulous content
