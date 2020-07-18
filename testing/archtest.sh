@@ -103,8 +103,8 @@ systemctl start NetworkManager
 pacman --noconfirm --needed -S grub && grub-install --target=i386-pc /dev/sda && grub-mkconfig -o /boot/grub/grub.cfg
 
 pacman --noconfirm --needed -S dialog
-larbs() { curl -O https://raw.githubusercontent.com/LukeSmithxyz/FARBS/master/src/larbs.sh && bash larbs.sh ;}
-dialog --title "Install Luke's Rice" --yesno "This install script will easily let you access Luke's Auto-Rice Boostrapping Scripts (FARBS) which automatically install a full Arch Linux i3-gaps desktop environment.\n\nIf you'd like to install this, select yes, otherwise select no.\n\nLuke"  15 60 && larbs
+farbs() { curl -O https://raw.githubusercontent.com/FabianMoertter/FARBS/master/src/farbs.sh && bash farbs.sh ;}
+dialog --title "Install Fabulous Rice" --yesno "This install script will easily let you access Fabulous Auto-Rice Boostrapping Scripts (FARBS) which automatically install a full Arch Linux i3-gaps desktop environment.\n\nIf you'd like to install this, select yes, otherwise select no.\n\nFabian"  15 60 && farbs
 ### END
 
 
