@@ -1,7 +1,7 @@
 # Fabulous Auto-Rice Bootstraping Scripts (FARBS)
 
 ## Disclaimer
-This is basically LARBS from Luke Smith.
+This is basically LARBS from Luke Smith (https://github.com/LukeSmithxyz/LARBS).
 
 ## Installation:
 
