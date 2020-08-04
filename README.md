@@ -8,7 +8,6 @@ This is basically LARBS from Luke Smith (https://github.com/LukeSmithxyz/LARBS).
 On an Arch based distribution as root, run the following:
 
 ```
-curl -LO farbs.xyz/farbs.sh
 sh farbs.sh
 ```
 
